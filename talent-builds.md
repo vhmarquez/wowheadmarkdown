@@ -1,0 +1,46 @@
+Best Havoc Demon Hunter Talent Import Codes
+-------------------------------------------
+
+Havoc Demon Hunter Raid Talent Build
+------------------------------------
+
+For Raids, Havoc Demon Hunter has a couple of talent options for single target focused encounters; two including and one excluding movement-based talents such as [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_foundryraid_demolition.gif) Momentum](https://www.wowhead.com/ptr-2/spell=206476/momentum). All raid builds go for [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_ritualofsacrifice.gif) Essence Break](https://www.wowhead.com/ptr-2/spell=258860/essence-break) and all talents such as [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_glaive_1h_npc_d_01.gif) Furious Throws](https://www.wowhead.com/ptr-2/spell=393029/furious-throws) focused on buffing [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_throwglaive.gif) Throw Glaive](https://www.wowhead.com/ptr-2/spell=185123/throw-glaive) due to our Season 3 tier set [![](https://wow.zamimg.com/images/wow/icons/tiny/trade_engineering.gif) Demon Hunter Havoc 10.2 Class Set 2pc](https://www.wowhead.com/ptr-2/spell=422857/demon-hunter-havoc-10-2-class-set-2pc).
+
+These raid builds are generic and have some class talents that could be swapped situationally, such as talents like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_fire_felfirenova.gif) Chaos Nova](https://www.wowhead.com/ptr-2/spell=179057/chaos-nova) or [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_consumemagic.gif) Improved Disrupt](https://www.wowhead.com/ptr-2/spell=320361/improved-disrupt) being taken out for bonus utility such as [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_cloth_35v4.gif) Felfire Haste](https://www.wowhead.com/ptr-2/spell=389846/felfire-haste) if there are no situations they are used on a given fight.
+
+### Havoc Inertia Raid Talent Build
+
+This build takes [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_chaoticimprint_fire.gif) A Fire Inside](https://www.wowhead.com/ptr-2/spell=427775/a-fire-inside) and [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_10_inscription3_pigments_black.gif) Inertia](https://www.wowhead.com/ptr-2/spell=427640/inertia) which combo powerfully together; while this build is not theoretically as good in pure single target as our Momentum build it is more flexible and less punishing to play in a raid scenario. It also benefits largely off of adds or multi-target scenario. In higher target count scenarios I would recommend swapping [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_eyebeam.gif) Furious Gaze](https://www.wowhead.com/ptr-2/spell=343311/furious-gaze) to [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_fire_fireballgreen.gif) Ragefire](https://www.wowhead.com/ptr-2/spell=388107/ragefire). In pure AoE scenarios the Ignition m+ build can be run in raids as well.
+
+Export Talents - [Open in Calculator](https://www.wowhead.com/ptr-2/talent-calc/demon-hunter/havoc/DAOEFFVQREaBUUYiUBQNRQVVVUJRVBIlECUU)
+
+
+
+### Havoc Momentum Pure Single Target Raid Talent Build
+
+The theoretical best single target build, focused on high uptime taking [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_ironmaidens_whirlofblood.gif) Cycle of Hatred](https://www.wowhead.com/ptr-2/spell=258887/cycle-of-hatred?def=117960&rank=2) and [![](https://wow.zamimg.com/images/wow/icons/tiny/achievement_boss_triumvirate_darknaaru.gif) Shattered Destiny](https://www.wowhead.com/ptr-2/spell=388116/shattered-destiny) for lengthy metamorphosis extension. [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_foundryraid_demolition.gif) Momentum](https://www.wowhead.com/ptr-2/spell=206476/momentum) is largely not played around in the current iteration and [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_felrush.gif) Fel Rush](https://www.wowhead.com/ptr-2/spell=195072/fel-rush) is mostly used in downtime. This build falls behind aggressively quickly in any cleave or AoE scenarios, and is generally not recommended as the main raid build.
+
+Export Talents - [Open in Calculator](https://www.wowhead.com/ptr-2/talent-calc/demon-hunter/havoc/DAOEFFVQREaBUUYiUBQNRQVVVVIRRFKBUCUB)
+
+### Havoc Single Target No Mover Raid Talent Build
+
+This build is your Single-Target Oriented raid build without movement-based talents such as [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_foundryraid_demolition.gif) Momentum](https://www.wowhead.com/ptr-2/spell=206476/momentum). Playing around [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_ritualofsacrifice.gif) Essence Break](https://www.wowhead.com/ptr-2/spell=258860/essence-break) windows being paired after a [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_eyebeam.gif) Eye Beam](https://www.wowhead.com/ptr-2/spell=198013/eye-beam) this build will have a slight amount of holding of cooldowns for pairing purposes. This build performs moderately behind the other Single Target build that utilizes all movement-based talents, with how small the gap is however preference can simply be played in most scenarios.
+
+Export Talents - [Open in Calculator](https://www.wowhead.com/ptr-2/talent-calc/demon-hunter/havoc/DAOEFFVQREaBUUYiUBQNVRVUVSIBQFKRUCUE)
+
+Havoc Demon Hunter Mythic+ Build
+--------------------------------
+
+For Mythic+, Havoc has small variations at most in the changes of builds. If you are playing a low target count dungeon and want to go for Single Target damage, you can play a raid build though it is not recommended. The builds that exist focus around [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_chaoticimprint_fire.gif) A Fire Inside](https://www.wowhead.com/ptr-2/spell=427775/a-fire-inside) and [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_warlock_demonicpower.gif) Any Means Necessary](https://www.wowhead.com/ptr-2/spell=388114/any-means-necessary) as capstones.
+
+### Havoc Demon Hunter Ignition M+ Build
+
+This build takes all the AoE focused talents and now takes [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_ritualofsacrifice.gif) Essence Break](https://www.wowhead.com/ptr-2/spell=258860/essence-break) over [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_felbarrage.gif) Fel Barrage](https://www.wowhead.com/ptr-2/spell=258925/fel-barrage) due to the nerfs causing fel barrage be mostly pad. Deals massive amounts of damage partially reliant on [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_chaoticimprint_fire.gif) A Fire Inside](https://www.wowhead.com/ptr-2/spell=427775/a-fire-inside) refunds for heavy burst, and is just a strong general build. While [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_felbarrage.gif) Fel Barrage](https://www.wowhead.com/ptr-2/spell=258925/fel-barrage) or [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_glaive_1h_artifactazgalor_d_06dual.gif) Glaive Tempest](https://www.wowhead.com/ptr-2/spell=342817/glaive-tempest) are not recommended default, you can swap [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_ritualofsacrifice.gif) Essence Break](https://www.wowhead.com/ptr-2/spell=258860/essence-break) for either talent in preference for similar overall damage. The major downside to swapping off of [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_ritualofsacrifice.gif) Essence Break](https://www.wowhead.com/ptr-2/spell=258860/essence-break) even in aoe scenarios where it will cause you to do more overall dps, is you lose a significant amount of priority damage and single target.
+
+Export Talents - [Open in Calculator](https://www.wowhead.com/ptr-2/talent-calc/demon-hunter/havoc/DAOEFFVQREaBUUYiUBQNRQVVVUJRFBYlECUU)
+
+### Havoc Demon Hunter Low Mover M+ Build
+
+This talent build is an option against the other Mythic+ build with lower movement requirements, dropping talents requiring the usage of [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_demonhunter_felrush.gif) Fel Rush](https://www.wowhead.com/ptr-2/spell=195072/fel-rush) for damage at a loss. While [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_felbarrage.gif) Fel Barrage](https://www.wowhead.com/ptr-2/spell=258925/fel-barrage) is not recommended default, you can swap [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_ritualofsacrifice.gif) Essence Break](https://www.wowhead.com/ptr-2/spell=258860/essence-break) for it in preference for similar overall damage. [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_rogue_surpriseattack.gif) Initiative](https://www.wowhead.com/ptr-2/spell=388108/initiative) is still taken due to the nature of the talent being so strong in m+ scenarios, while this talent build is not recommended it is a playable option.
+
+Export Talents - [Open in Calculator](https://www.wowhead.com/ptr-2/talent-calc/demon-hunter/havoc/DAOEFFVQREaBUUYiUBQNRQVVVRJBURYlECUU)
